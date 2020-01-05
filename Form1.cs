@@ -12,6 +12,7 @@ namespace GraphicsEditor2
 {
     public partial class Form1 : Form
     {
+        Painter painter;
         public Form1()
         {
             InitializeComponent();
@@ -21,6 +22,7 @@ namespace GraphicsEditor2
         {
             CreateProjectParameters createProjectParameters = new CreateProjectParameters(this.toolStripContainerForCanvas.ContentPanel);
             createProjectParameters.Show();
+
         }
     }
 }

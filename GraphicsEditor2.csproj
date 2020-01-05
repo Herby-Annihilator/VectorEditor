@@ -61,9 +61,11 @@
     <Compile Include="Geometry.cs" />
     <Compile Include="Line.cs" />
     <Compile Include="LinePrimitive.cs" />
+    <Compile Include="Painter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="ProjectCreator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SquarePrimitives.cs" />
     <EmbeddedResource Include="CreateProjectParameters.resx">
       <DependentUpon>CreateProjectParameters.cs</DependentUpon>
     </EmbeddedResource>

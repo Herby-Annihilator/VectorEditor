@@ -7,7 +7,7 @@ using System.IO;
 
 namespace GraphicsEditor2
 {
-    abstract class LinePrimitive : Geometry
+    public abstract class LinePrimitive : Geometry
     {
         protected float lenght;
         public virtual float Lenght

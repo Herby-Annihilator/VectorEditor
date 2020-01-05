@@ -5,7 +5,7 @@ using System;
 
 namespace GraphicsEditor2
 {
-    class Line : LinePrimitive
+    public class Line : LinePrimitive
     {
         //
         // start

@@ -18,7 +18,7 @@ namespace GraphicsEditor2
         //
 
         private ToolStripContentPanel ToolStripContentPanel;
-
+        private Painter painter;
 
         //
         // Constructors
@@ -64,6 +64,9 @@ namespace GraphicsEditor2
             Size toolStripSize = ToolStripContentPanel.Size;
             pictureBox.BackColor = Color.White;
             pictureBox.Location = new Point(toolStripSize.Width / 2 - width / 2, toolStripSize.Height / 2 - height / 2);
+
+            painter = new Painter(ref this.ToolStripContentPanel, new Size(width, height));
+
             //
             // Создание проекта
             //

@@ -8,8 +8,9 @@ using System.Windows.Forms;
 
 namespace GraphicsEditor2
 {
-    abstract class Geometry
+    public abstract class Geometry
     {
+        protected int indexInCollection;
         public virtual Color GeometryColor { get; set; }
 
         public Geometry()
@@ -17,6 +18,7 @@ namespace GraphicsEditor2
             GeometryColor = Color.Black;
             Name = "Default graphics primitive";
             thickness = 1;
+            indexInCollection = 0;
         }
         /// <summary>
         /// Название объекта
