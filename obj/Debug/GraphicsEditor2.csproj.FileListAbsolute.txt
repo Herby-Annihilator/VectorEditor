@@ -1,0 +1,10 @@
+D:\Проекты  в студии\GraphicsEditor2\bin\Debug\GraphicsEditor2.exe.config
+D:\Проекты  в студии\GraphicsEditor2\bin\Debug\GraphicsEditor2.exe
+D:\Проекты  в студии\GraphicsEditor2\bin\Debug\GraphicsEditor2.pdb
+D:\Проекты  в студии\GraphicsEditor2\obj\Debug\GraphicsEditor2.csprojAssemblyReference.cache
+D:\Проекты  в студии\GraphicsEditor2\obj\Debug\GraphicsEditor2.CreateProjectParameters.resources
+D:\Проекты  в студии\GraphicsEditor2\obj\Debug\GraphicsEditor2.Form1.resources
+D:\Проекты  в студии\GraphicsEditor2\obj\Debug\GraphicsEditor2.Properties.Resources.resources
+D:\Проекты  в студии\GraphicsEditor2\obj\Debug\GraphicsEditor2.csproj.GenerateResource.cache
+D:\Проекты  в студии\GraphicsEditor2\obj\Debug\GraphicsEditor2.exe
+D:\Проекты  в студии\GraphicsEditor2\obj\Debug\GraphicsEditor2.pdb
